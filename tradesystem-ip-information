@@ -1,0 +1,1 @@
+{"connect_type":"DHCP","mac_default":"08-10-76-91-B8-BF","ip":"10.11.49.65","mask":"255.255.255.192","gw":"10.11.49.126","sec_ip":"0.0.0.0","sec_mask":"0.0.0.0","sec_gw":"0.0.0.0","dns1":"202.120.190.208","dns2":"202.120.190.208","connected":"true","line_detect":"true","up_time":{"day":"1","hour":"9","min":"37","sec":"43"},"send_bytes":"5046625142","recv_bytes":"7992517251"}
